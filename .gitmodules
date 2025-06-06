@@ -1,0 +1,3 @@
+[submodule "zipfian-whitening"]
+	path = zipfian-whitening
+	url = git@github.com:/Xenomirant/zipfian-whitening
